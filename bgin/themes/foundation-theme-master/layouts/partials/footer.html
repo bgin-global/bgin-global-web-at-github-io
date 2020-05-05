@@ -1,0 +1,31 @@
+{{ "<!-- BEGIN FOOTER -->" | safeHTML }}
+<footer>
+<div class="wrapper row small-up-1 medium-up-3">
+
+		<div class="column">
+			<h4>Contact Info</h4>
+			<hr>
+			<a><span>Email </span>{{ .Site.Params.footer.email }}</a>
+		</div>
+
+		<div class="column">
+			<h4>Links</h4>
+			<hr>
+			{{ $currentNode := . }}
+			{{ range .Site.Menus.main }}
+			<a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a>
+			{{end}}
+		</div>
+
+		<div class="column">
+			<h4>Social</h4>
+			<hr>
+			{{ $currentNode := . }}
+			{{ range .Site.Menus.social }}
+			<a class="nav-item{{if or ($currentNode.IsMenuCurrent "social" .) ($currentNode.HasMenuCurrent "social" .) }} active{{end}}" href="{{.URL}}" rel="me">{{ .Name}}</a>
+			{{end}}
+		</div>
+
+	</div>
+</footer> {{ "<!-- END FOOTER -->" | safeHTML }}
+

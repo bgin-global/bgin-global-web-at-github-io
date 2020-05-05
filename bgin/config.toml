@@ -1,0 +1,61 @@
+baseURL = "https://bgin.team/"
+languageCode = "en-us"
+title = "BGIN"
+baseurl = "/"
+author = "BGIN Secretariat"
+theme = "foundation-theme-master"
+enableRobotsTXT = true
+SectionPagesMenu = ["main", "social"]
+
+[params.meta]
+description = "The official website of Blockchain Governance Initiative Network, BGIN"
+keywords = "BGIN, Blockchain, Governance, platform, BG2C"
+
+[params.hero]
+herotitle = "Blockchain Governance Initiative Network (BGIN)"
+herodiscription = " A global network for blockchain stakeholders"
+# btnblue = "Learn More"
+# btngreen = "Send Us a Message"
+
+[params.main]
+contentOneTitle = "A New Beginning..."
+# contentTwoTitle = "Call for contributions"
+# contentThreeTitle = "Call for contributions"
+
+contentOneBody = "On March 10, 2020, a group of people from various blockchain stakeholder groups agreed on the establishment of a new global network named Blockchain Governance Initiative Network (BGIN - pronounced ‘BEGIN’). Japan led the discussion at the G20 in 2019 as the presidency on the governance for decentralized finance in accordance with the experiences against high profile hacking incidents and of forming regulatory frameworks. Building on this background, this network aims at providing an open and neutral sphere for all stakeholders to deepen common understanding and to collaborate to address issues they face in order to attain sustainable development of the blockchain community."
+
+# contentTwoBody = "You"
+# contentThreeBody = "You"
+
+
+[params.footer]
+email = "bgin-contact@bgin.team"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = -200
+
+[[menu.main]]
+name = "Call for Contributions"
+url = "/Contributions"
+weight = -180
+
+[[menu.main]]
+name = "Finalized Documents"
+url = "/publications"
+weight = -160
+
+[[menu.main]]
+name = "News"
+url = "/News"
+weight = -220
+
+
+[[menu.social]]
+name = "Github"
+url = "https://github.com/bgin-global"
+
+[[menu.social]]
+name = "Join Our Mailing List"
+url = "http://blockchain-discussions.org/mailman/listinfo/bgin-announcement_blockchain-discussions.org"
