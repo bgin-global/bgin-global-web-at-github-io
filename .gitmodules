@@ -1,8 +1,0 @@
-[submodule "themes/foundation-theme-master"]
-  path = themes/foundation-theme-master
-  url = https://github.com/hdcdstr8fwd/foundation-theme.git
-
-[submodule "public"]
-  path = public
-  url = https://github.com/rushida/rushida.github.io.git
-  branch = master

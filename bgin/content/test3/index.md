@@ -1,7 +1,0 @@
-+++
-title = "test3"
-layout = "single-para-2"
-draft = "false"
-+++
-*All BGIN documents can be found at our [GitHub repository](https://github.com/bgin-global) 
-
