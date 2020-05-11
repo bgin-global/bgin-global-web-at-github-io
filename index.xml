@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BGIN</title>
-    <link>https://jolly-lamarr-0fc555.netlify.app/</link>
+    <link>https://bgin-global.org/</link>
     <description>Recent content on BGIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jolly-lamarr-0fc555.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bgin-global.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://jolly-lamarr-0fc555.netlify.app/about/</link>
+      <link>https://bgin-global.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jolly-lamarr-0fc555.netlify.app/about/</guid>
+      <guid>https://bgin-global.org/about/</guid>
       <description>Blockchain Governance Initiative Network (BGIN) aims at providing an open and neutral sphere for all stakeholders to deepen common understanding and to collaborate to address issues they face in order to attain sustainable development of the blockchain community. As an open network, we are now actively and widely seeking interested parties to join this initiative, so as to accommodate diverse opinions from a wider range of blockchain stakeholders. For those who are interested, please start contribution at the BGIN&amp;rsquo;s GitHub repository or contact us via bgin-contact@bgin.</description>
     </item>
     
     <item>
       <title>Call for Contributions</title>
-      <link>https://jolly-lamarr-0fc555.netlify.app/contributions/</link>
+      <link>https://bgin-global.org/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jolly-lamarr-0fc555.netlify.app/contributions/</guid>
+      <guid>https://bgin-global.org/contributions/</guid>
       <description>We are developing the Genesis Documents and Terms of Reference of BGIN to lay a solid foundation for the sustainable development of the platform. The draft was created on the launch of BGIN and is now open to public at our GitHub repository. We are seeking comments and views on these documents from anyone who has interests on this initiative.
 Please refer to the press annoucement of the launch, the presentation describing about it or Inaugural Meeting Minutes.</description>
     </item>
     
     <item>
       <title>Documents</title>
-      <link>https://jolly-lamarr-0fc555.netlify.app/publications/</link>
+      <link>https://bgin-global.org/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jolly-lamarr-0fc555.netlify.app/publications/</guid>
+      <guid>https://bgin-global.org/publications/</guid>
       <description>Finalized Documents  (TBP)  Work-in-Progress Documents   BGIN Genesis Docunmeunt
   BGIN Terms of Reference(ToR)
   Governance working group initial draft ToR
@@ -44,10 +44,10 @@ Please refer to the press annoucement of the launch, the presentation describing
     
     <item>
       <title>News</title>
-      <link>https://jolly-lamarr-0fc555.netlify.app/news/</link>
+      <link>https://bgin-global.org/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jolly-lamarr-0fc555.netlify.app/news/</guid>
+      <guid>https://bgin-global.org/news/</guid>
       <description>March 20 2020  Creation of BGIN Github repository   March 10 2020  Declaration of the establishment of BGIN at BG2C Special Online Panel Discussion   March 9 2020  BGIN Inaugural Meeting  Meeting minutes Press release    </description>
     </item>
     

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BGIN</title>
-    <link>https://jolly-lamarr-0fc555.netlify.app/categories/</link>
+    <link>https://bgin-global.org/categories/</link>
     <description>Recent content in Categories on BGIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jolly-lamarr-0fc555.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bgin-global.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
