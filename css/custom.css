@@ -1,0 +1,39 @@
+#copyright {
+  font-size: 0.8em;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  margin-right: 38px;
+  padding: 0px 0px;
+  text-align: right;
+  }
+
+#copyright2 {
+  font-size: 0.8em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 20px;
+  padding: 0px 0px;
+  text-align: right;
+  }
+
+#finalized_documents {
+  font-size: 1.5em;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  padding: 0px 10px;
+  text-align: left;
+  border-bottom: 1px solid #614226;
+  border-left: 8px solid #614226;
+}
+
+#wip_documents {
+  font-size: 1.5em;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  padding: 0px 10px;
+  text-align: left;
+  border-bottom: 1px solid #614226;
+  border-left: 8px solid #614226;
+}
