@@ -37,3 +37,14 @@
   border-bottom: 1px solid #614226;
   border-left: 8px solid #614226;
 }
+
+.whatsnew {
+  font-size: 1.2em;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  padding: 0px 10px;
+  text-align: left;
+  border-bottom: 1px solid #614226;
+  border-left: 4px solid #614226;
+}

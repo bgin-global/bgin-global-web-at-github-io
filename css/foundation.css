@@ -60,6 +60,16 @@
   border-left: 10px solid #614226;
 }
 
+#content_whatsnew {
+  font-size: 1.0em;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  text-align: left;
+  border-bottom: 1px solid #614226;
+  border-left: 4px solid #614226;
+}
+
 #content_title {
   font-size: 2.0em;
   margin-top: 0;
@@ -1557,10 +1567,10 @@ kbd {
     margin-left: 0;
     margin-right: 0; }
   .button.primary {
-    background-color: #2199e8;
+    background-color: #23506e;
     color: #fefefe; }
     .button.primary:hover, .button.primary:focus {
-      background-color: #147cc0;
+      background-color: #23506e;
       color: #fefefe; }
   .button.secondary {
     background-color: #777;
@@ -1568,8 +1578,14 @@ kbd {
     .button.secondary:hover, .button.secondary:focus {
       background-color: #5f5f5f;
       color: #fefefe; }
+    .button.third {
+      background-color: rgb(156, 48, 48);
+      color: #fefefe; }
+    .button.third:hover, .button.third:focus {
+      background-color: #5f5f5f;
+      color: #fefefe; }
   .button.success {
-    background-color: #3adb76;
+    background-color: #108039;
     color: #fefefe; }
     .button.success:hover, .button.success:focus {
       background-color: #22bb5b;
@@ -1634,7 +1650,7 @@ kbd {
       opacity: 0.25;
       cursor: not-allowed; }
       .button.disabled.primary:hover, .button.disabled.primary:focus, .button[disabled].primary:hover, .button[disabled].primary:focus {
-        background-color: #2199e8;
+        background-color: #23506e;
         color: #fefefe; }
     .button.disabled.secondary, .button[disabled].secondary {
       opacity: 0.25;
@@ -2073,7 +2089,7 @@ select {
     background-color: #2199e8;
     color: #fefefe; }
     .button-group.primary .button:hover, .button-group.primary .button:focus {
-      background-color: #147cc0;
+      background-color: #23506e;
       color: #fefefe; }
   .button-group.secondary .button {
     background-color: #777;

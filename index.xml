@@ -43,12 +43,22 @@ Please refer to the press annoucement of the launch, the presentation describing
     </item>
     
     <item>
+      <title>Documents</title>
+      <link>https://bgin-global.org/wg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgin-global.org/wg/</guid>
+      <description>Governance Working Group  Co-Chairs: Aaron Wright(OpenID Foundation), Shigeya Suzuki(BSafe.network / Keio University / WIDE Project / BASE alliance) The Governance WG aims at developing the governance mechanism of BGIN itself. It will discuss a variety of topics including its organization structure, IPR policy and fundraising policy. Initial draft ToR of the WG will be discussed at the online meeting at June 18 New mailing list for the WG will be created soon after the meeting.</description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>https://bgin-global.org/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bgin-global.org/news/</guid>
-      <description>March 20 2020  Creation of BGIN Github repository   March 10 2020  Declaration of the establishment of BGIN at BG2C Special Online Panel Discussion   March 9 2020  BGIN Inaugural Meeting  Meeting minutes Press release    </description>
+      <description>June 2 2020   BGIN online meeting will be held on June 18, 13:00-15:00 UTC
+ This is BGIN&amp;rsquo;s first public meeting where we will discuss key issues including:  draft ToR of Governance Working Group draft ToR of Identity/Privacy/Key management Study Group strategy to develop the community base of BGIN   If you want to join the discussion, please send an email to bgin-contact@bgin.team with your name and affiliation (if any) by June 15 Meeting agenda, discussion materials and Zoom link will be sent to the registered address, but we will call for agenda items.</description>
     </item>
     
   </channel>
