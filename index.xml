@@ -41,6 +41,18 @@ This is BGIN’s first public meeting where we will discuss key issues including
     
     <item>
       <title>Documents</title>
+      <link>https://bgin-global.org/mailing_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgin-global.org/mailing_list/</guid>
+      <description>Mailing Lists Join the BGIN discussion on our mailing lists.
+General Discussion mailing list : General conversations about the BGIN including
+ General administrative matters Meeting and events Community development Collaboration with other initiatives/organizations Future potential work items Any other topics which are out of scope of working groups and study groups  Announcement mailing list : Administrative members post info about upcoming meeting, events and other news.
+GWG mailing list : Discussions related to Governance Working Group.</description>
+    </item>
+    
+    <item>
+      <title>Documents</title>
       <link>https://bgin-global.org/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -58,7 +70,7 @@ This is BGIN’s first public meeting where we will discuss key issues including
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bgin-global.org/wg/</guid>
-      <description>Governance Working Group  Co-Chairs: Aaron Wright(Cardozo Law School), Shigeya Suzuki(BSafe.network / Keio University / WIDE Project / BASE alliance) The Governance WG aims at developing the governance mechanism of BGIN itself. It will discuss a variety of topics including its organization structure, IPR policy and fundraising policy. Draft ToR of the WG is on the WG GitHub repository. Register for the WG mailing list to join the discussion.  IAM, Privacy and Key Management Study Group  Co-Chairs: Nat Sakimura(OpenID Foundation), Katharina Pistor(Columbia Law School) The goal of IAM, Privacy and Key Management Study Group (IPWG) is to provide guidance and good practice documents that describe M* Identity (including keys) and Access management for access to crypto-currency exchange;  Identity (including keys) and Access management using Blockchain/DLT for Online resource access; Privacy considerations to be taken into account for the above.</description>
+      <description>Governance Working Group (GWG)  Co-Chairs:  Aaron Wright(Cardozo Law School) Shigeya Suzuki(BSafe.network / Keio University / WIDE Project / BASE alliance)   The Governance WG aims at developing the governance mechanism of BGIN itself. It will discuss a variety of topics including its organization structure, IPR policy and fundraising policy. Draft ToR of the WG is on the WG GitHub repository. Subscribe to the WG mailing list to join the discussion.</description>
     </item>
     
     <item>
