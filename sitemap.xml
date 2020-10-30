@@ -3,43 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bgin-global.org/about/</loc>
+    <loc>/about/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/</loc>
+    <loc>/cfc/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/contributions/</loc>
+    <loc>/docs/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/categories/</loc>
+    <loc>/block_1/</loc>
+    <lastmod>2020-10-30T11:42:22-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/event/</loc>
+    <loc>/join/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/mailing_list/</loc>
+    <loc>/event/</loc>
+    <lastmod>2020-10-30T09:21:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/publications/</loc>
+    <loc>/news/</loc>
+    <lastmod>2020-10-30T11:40:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/wg/</loc>
+    <loc>/wgsg/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/news/</loc>
+    <loc>/meeting_june2020/</loc>
+    <lastmod>2020-10-30T10:55:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgin-global.org/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2020-10-30T09:21:27-07:00</lastmod>
   </url>
   
 </urlset>
