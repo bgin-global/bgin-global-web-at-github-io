@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/matsuo/Documents/GitHub/syna-start",
+	"sourceRoot": "/Users/sm3377/Documents/GitHub/syna-start",
 	"sources": [
 		"themes/syna/assets/styles/index.scss",
 		"themes/syna/assets/styles/fontawesome/fontawesome.scss",
